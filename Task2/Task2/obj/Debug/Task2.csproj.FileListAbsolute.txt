@@ -1,0 +1,13 @@
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\Array.dll
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\BinaryTreeProject.dll
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\StudentProject.dll
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\Array.pdb
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\BinaryTreeProject.pdb
+C:\Users\evers\Documents\TasksForEpam\Task2\Task2\bin\Debug\StudentProject.pdb

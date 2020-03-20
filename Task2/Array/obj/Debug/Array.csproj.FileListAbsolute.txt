@@ -1,0 +1,5 @@
+C:\Users\evers\Documents\TasksForEpam\Task2\Array\bin\Debug\Array.dll
+C:\Users\evers\Documents\TasksForEpam\Task2\Array\bin\Debug\Array.pdb
+C:\Users\evers\Documents\TasksForEpam\Task2\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\evers\Documents\TasksForEpam\Task2\Array\obj\Debug\Array.dll
+C:\Users\evers\Documents\TasksForEpam\Task2\Array\obj\Debug\Array.pdb
