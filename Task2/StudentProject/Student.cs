@@ -15,10 +15,16 @@ namespace StudentProject
 
         public Student(string studentName, string examName, DateTime examDate, int examMark)
         {
-            this.studentName = studentName;
-            this.nameOfExam = examName;
-            this.dateOfExam = examDate;
-            this.examGrade = examMark;
+            if( studentName != null && studentName != "" && examName != null && examName != "" && examDate <= DateTime.Now && examDate >= DateTime.MinValue && 
+                examMark <= 100 && examMark >= 0)
+            {
+                this.studentName = studentName;
+                nameOfExam = examName;
+                dateOfExam = examDate;
+                examGrade = examMark;
+            }
+            else throw new ArgumentException("Incorrect data");
         }
+           
     }
 }

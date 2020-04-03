@@ -3,3 +3,8 @@ C:\Users\evers\Documents\TasksForEpam\Task2\StudentProject\bin\Debug\StudentProj
 C:\Users\evers\Documents\TasksForEpam\Task2\StudentProject\obj\Debug\StudentProject.csprojAssemblyReference.cache
 C:\Users\evers\Documents\TasksForEpam\Task2\StudentProject\obj\Debug\StudentProject.dll
 C:\Users\evers\Documents\TasksForEpam\Task2\StudentProject\obj\Debug\StudentProject.pdb
+C:\Users\evers\Documents\epam\Task2\StudentProject\bin\Debug\StudentProject.dll
+C:\Users\evers\Documents\epam\Task2\StudentProject\bin\Debug\StudentProject.pdb
+C:\Users\evers\Documents\epam\Task2\StudentProject\obj\Debug\StudentProject.csprojAssemblyReference.cache
+C:\Users\evers\Documents\epam\Task2\StudentProject\obj\Debug\StudentProject.dll
+C:\Users\evers\Documents\epam\Task2\StudentProject\obj\Debug\StudentProject.pdb

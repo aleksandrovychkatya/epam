@@ -1,50 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Tests\\Tests.csproj": {}
+    "C:\\Users\\evers\\Documents\\epam\\Task2\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Array\\Array.csproj": {
+    "C:\\Users\\evers\\Documents\\epam\\Task2\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\evers\\Documents\\epam\\Task2\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Array\\Array.csproj"
+        "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\Array\\Array.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj": {
+    "C:\\Users\\evers\\Documents\\epam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj",
+        "projectUniqueName": "C:\\Users\\evers\\Documents\\epam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj",
         "projectName": "BinaryTreeProject",
-        "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj"
+        "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\StudentProject\\StudentProject.csproj": {
+    "C:\\Users\\evers\\Documents\\epam\\Task2\\StudentProject\\StudentProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\StudentProject\\StudentProject.csproj",
+        "projectUniqueName": "C:\\Users\\evers\\Documents\\epam\\Task2\\StudentProject\\StudentProject.csproj",
         "projectName": "StudentProject",
-        "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\StudentProject\\StudentProject.csproj"
+        "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\StudentProject\\StudentProject.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Tests\\Tests.csproj": {
+    "C:\\Users\\evers\\Documents\\epam\\Task2\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\evers\\Documents\\epam\\Task2\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\evers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evers\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Array\\Array.csproj": {
-                "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\Array\\Array.csproj"
+              "C:\\Users\\evers\\Documents\\epam\\Task2\\Array\\Array.csproj": {
+                "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\Array\\Array.csproj"
               },
-              "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj": {
-                "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj"
+              "C:\\Users\\evers\\Documents\\epam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj": {
+                "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\BinaryTreeProject\\BinaryTreeProject.csproj"
               },
-              "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\StudentProject\\StudentProject.csproj": {
-                "projectPath": "C:\\Users\\evers\\Documents\\TasksForEpam\\Task2\\StudentProject\\StudentProject.csproj"
+              "C:\\Users\\evers\\Documents\\epam\\Task2\\StudentProject\\StudentProject.csproj": {
+                "projectPath": "C:\\Users\\evers\\Documents\\epam\\Task2\\StudentProject\\StudentProject.csproj"
               }
             }
           }

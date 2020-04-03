@@ -3,3 +3,8 @@ C:\Users\evers\Documents\TasksForEpam\Task2\BinaryTreeProject\bin\Debug\BinaryTr
 C:\Users\evers\Documents\TasksForEpam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.csprojAssemblyReference.cache
 C:\Users\evers\Documents\TasksForEpam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.dll
 C:\Users\evers\Documents\TasksForEpam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.pdb
+C:\Users\evers\Documents\epam\Task2\BinaryTreeProject\bin\Debug\BinaryTreeProject.dll
+C:\Users\evers\Documents\epam\Task2\BinaryTreeProject\bin\Debug\BinaryTreeProject.pdb
+C:\Users\evers\Documents\epam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.csprojAssemblyReference.cache
+C:\Users\evers\Documents\epam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.dll
+C:\Users\evers\Documents\epam\Task2\BinaryTreeProject\obj\Debug\BinaryTreeProject.pdb

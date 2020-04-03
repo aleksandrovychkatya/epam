@@ -13,8 +13,8 @@ namespace BinaryTreeProject
         private BinaryTreeNode<T> _head;
         private int _count;
 
-        delegate void AddNewNode(string message);
-        event AddNewNode Notify;
+        delegate void AddOrDeleteNode(string message);
+        event AddOrDeleteNode Notify;
         public void Add(T value)
         {
             if (_head == null)
