@@ -51,5 +51,80 @@ namespace Tests
             Assert.Equal(0, testTree.Count);
 
         }
+
+        [Fact]
+        public void Remove_AddFourElementsAndRemoveOneOfThem_ReturnTrue()
+        {
+            BinaryTree<int> testTree = new BinaryTree<int>();
+            testTree.Add(6);
+            testTree.Add(8);
+            testTree.Add(11);
+            testTree.Add(26);
+
+
+            Assert.True(testTree.Remove(11));
+        }
+
+        [Fact]
+        public void Remove_AddFourElementsAndRemoveAnother_ReturnFalse()
+        {
+            BinaryTree<int> testTree = new BinaryTree<int>();
+            testTree.Add(6);
+            testTree.Add(8);
+            testTree.Add(11);
+            testTree.Add(26);
+
+
+            Assert.False(testTree.Remove(111));
+        }
+
+        [Fact]
+
+        public void Remove_Add10ElementsAndRemove4FromThese_CountIs6()
+        {
+            BinaryTree<int> testTree = new BinaryTree<int>();
+            testTree.Add(6);
+            testTree.Add(34);
+            testTree.Add(24);
+            testTree.Add(663);
+            testTree.Add(766);
+            testTree.Add(35);
+            testTree.Add(68);
+            testTree.Add(97);
+            testTree.Add(-24);
+            testTree.Add(-17);
+
+            testTree.Remove(34);
+            testTree.Remove(68);
+            testTree.Remove(35);
+            testTree.Remove(97);
+
+            Assert.Equal(6, testTree.Count);
+        }
+
+        [Fact]
+
+        public void GetEnumerator_AddThreeElementAnd()
+        {
+            BinaryTree<int> testTree = new BinaryTree<int>();
+            testTree.Add(6);
+            testTree.Add(34);
+            testTree.Add(24);
+
+            List<int> testList = new List<int>();
+
+            foreach(var x in testTree)
+            {
+                testList.Add(x);
+            }
+
+            List<int> list = new List<int>();
+            list.Add(6);
+            list.Add(24);
+            list.Add(34);
+
+
+            Assert.Equal(testList, list);
+        }
     }
 }
